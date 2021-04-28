@@ -1,0 +1,6 @@
+2021/04/28-06:44:30.210 28303 Creating DB /private/var/folders/bb/7r4v55tj6yjbjn9pyk8b0k_m0000gn/T/flutter_tools.udMlFn/flutter_tools_chrome_device.MbuduA/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2021/04/28-06:44:30.257 28303 Reusing MANIFEST /private/var/folders/bb/7r4v55tj6yjbjn9pyk8b0k_m0000gn/T/flutter_tools.udMlFn/flutter_tools_chrome_device.MbuduA/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/28-06:44:45.888 276cb Level-0 table #5: started
+2021/04/28-06:44:45.933 276cb Level-0 table #5: 28475 bytes OK
+2021/04/28-06:44:45.976 276cb Delete type=0 #3
+2021/04/28-06:44:45.977 276cb Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
